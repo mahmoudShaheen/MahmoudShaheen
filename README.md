@@ -3,7 +3,6 @@
 <p align="center">
     <a href="https://twitter.com/MahmoudMShaheen"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mahmoudmshaheen"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/mahmoudShaheen?tab=followers"><img src="https://img.shields.io/github/followers/MahmoudShaheen?style=social"/></a>
 </p>
 
 <h3>
@@ -20,7 +19,7 @@ Passionate .Net developer, New technologies explorer mostly related to AI and Au
 
 <!--
 **mahmoudShaheen/MahmoudShaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <a href="https://github.com/mahmoudShaheen?tab=followers"><img src="https://img.shields.io/github/followers/MahmoudShaheen?style=social"/></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

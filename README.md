@@ -3,7 +3,9 @@
 <p align="center">
     <a href="https://twitter.com/MahmoudMShaheen"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mahmoudmshaheen"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/mahmoudShaheen?tab=followers"><img src="https://img.shields.io/github/followers/MahmoudShaheen?style=social"/></a>
 </p>
+
 <h3>
 Passionate .Net developer, New technologies explorer mostly related to AI and Automation. Actively looking for good projects to work on with creative team.
 </h3> 

@@ -7,15 +7,16 @@
 </p>
 
 <h3>
-Electrical Engineer specialized in Software Development and Architecture.
-<br>
-Passionate about exploring new technologies mostly related to AI, ML, Big-Data and Automation.
-<br>
-Very flexible Team Player/Leader, Strategic planner, Fast learner and best knowledge implementer.
-<br>
-Actively looking for good projects to work on with creative team.
+    Electrical Engineer specialized in Software Development and Architecture.
+    <br>
+    Passionate about exploring new technologies mostly related to AI, ML, Big-Data and Automation.
+    <br>
+    Very flexible Team Player/Leader, Strategic planner, Fast learner and best knowledge implementer.
+    <br>
+    Actively looking for good projects to work on with creative team.
 </h3> 
-<br> 
+
+<img src="https://github.com/mahmoudShaheen/mahmoudShaheen/blob/master/profile-img.png" align="right" width="15%"/>
 
 - 🔭 I’m currently working on something cool at [@Robomagica](https://github.com/Robomagica) :wink:
 - ⚡ I’m currently Focusing on Big-Data, AI, Machine-Learning, Digital-Transformation.

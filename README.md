@@ -9,7 +9,7 @@
 <h3>
     Electrical Engineer specialized in Software Development and Architecture.
     <br>
-    Passionate about exploring new technologies mostly related to AI, ML, Big-Data and Automation.
+    Passionate about exploring new technologies.
     <br>
     Very flexible Team Player/Leader, Strategic planner, Fast learner and best knowledge implementer.
     <br>
@@ -19,8 +19,8 @@
 <img src="https://github.com/mahmoudShaheen/mahmoudShaheen/blob/master/profile-img.png" align="right" width="15%"/>
 
 - 🔭 I’m currently working on something cool at [@Robomagica](https://github.com/Robomagica) :wink:
-- ⚡ I’m currently Focusing on Big-Data, AI, Machine-Learning, Digital-Transformation.
-- 💬 Ask me about Software Architecture, C#, .Net, ASPCore, Spring or RPA.
+- ⚡ I’m currently Focusing on Big-Data, Software Design, Digital-Transformation.
+- 💬 Ask me about Software Architecture, C#, .Net, ASPCore, Java, Spring, BigData or RPA.
 - 📫 Feel free to contact me on: <!-- [Twitter](https://twitter.com/MahmoudMShaheen), -->[LinkedIn](https://www.linkedin.com/in/mahmoudmshaheen), [Website](https://www.MoShaheen.com/#contact).
 
 

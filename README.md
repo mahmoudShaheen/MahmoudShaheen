@@ -25,12 +25,15 @@
 
 <br/>
 <h2 align="center">📊 Github Stats 📊</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudShaheen&theme=tokyonight_duo" alt="mahmoudShaheen" /></p>
+<p align="center">
+	<a href="https://github.com/mahmoudShaheen">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudShaheen&theme=tokyonight_duo" alt="mahmoudShaheen" /></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/mahmoudShaheen">
 	    <img alt="mahmoudShaheen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudShaheen&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudShaheen&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mahmoudShaheen" height="230px"/>
+	  <a href="https://github.com/mahmoudShaheen">
+		  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudShaheen&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="mahmoudShaheen" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -43,7 +46,7 @@
 
 <h2 align="center">🏆 Git profile Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudShaheen&layout=compact&column=-1&theme=nord" alt="Mahmoud Shaheen" /></a> </p>
+<p align="center"> <a href="https://github.com/mahmoudShaheen"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudShaheen&layout=compact&column=-1&theme=nord" alt="Mahmoud Shaheen" /></a> </p>
 
 <br/>
 

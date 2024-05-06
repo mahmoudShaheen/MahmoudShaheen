@@ -2,18 +2,17 @@
 
 <p align="center">
     <a href="https://www.moshaheen.com/"><img src="https://img.shields.io/badge/-Website-blue"/></a>
-    <!-- <a href="https://twitter.com/MahmoudMShaheen"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a> -->
     <a href="https://www.linkedin.com/in/mahmoudmshaheen"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3>
-    Electrical Engineer specialized in Software Development and Architecture.
+    Passionate Software Engineer with over 9 years of experience in Software Development, Design and Architecture.
     <br>
-    Passionate about exploring new technologies.
+    Demonstrated success in building and leading dynamic teams, designing and developing enterprise-level systems from inception to polished deliverables.
     <br>
-    Very flexible Team Player/Leader, Strategic planner, Fast learner and best knowledge implementer.
+    Renowned for adaptability as both a team player and leader, adept strategic planning abilities, rapid learning aptitude, and seamless knowledge implementation.
     <br>
-    Actively looking for good projects to work on with creative team.
+    Actively looking for challenging projects to work on with creative team.
 </h3> 
 
 <img src="https://github.com/mahmoudShaheen/mahmoudShaheen/blob/master/profile-img.png" align="right" width="15%"/>
@@ -21,6 +20,6 @@
 - 🔭 I’m currently working on something cool at [@MoQa](https://moqa.moshaheen.com/) & [@Robomagica](https://Robomagica.moshaheen.com/) :wink:
 - ⚡ I’m currently Focusing on Software Design, AI, Big-Data, Digital-Transformation.
 - 💬 Ask me about Software Architecture, C#, .Net, ASPCore, Java, Spring, BigData or RPA.
-- 📫 Feel free to contact me on: <!-- [Twitter](https://twitter.com/MahmoudMShaheen), -->[LinkedIn](https://www.linkedin.com/in/mahmoudmshaheen), [Website](https://www.MoShaheen.com/#contact).
+- 📫 Feel free to contact me on: [LinkedIn](https://www.linkedin.com/in/mahmoudmshaheen), [Website](https://www.MoShaheen.com/#contact).
 
 <br>
